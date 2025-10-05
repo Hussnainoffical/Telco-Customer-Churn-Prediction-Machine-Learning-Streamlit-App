@@ -1,4 +1,4 @@
-lco Customer Churn Prediction: Machine Learning + Streamlit App
+Telco Customer Churn Prediction: Machine Learning + Streamlit App
 📖 Overview
 
 This project predicts customer churn for a telecom company using the Telco Customer Churn dataset.
